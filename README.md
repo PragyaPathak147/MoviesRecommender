@@ -1,0 +1,1 @@
+#Machine Learning project to recommend movies using NLP techniques including vectorisation, Stemming, Stop_words removal  and cosine similarity.
