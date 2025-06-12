@@ -1,6 +1,6 @@
 # 🎬 Movie Recommendation System
 
-A machine learning-based movie recommender system built using Python. This project predicts and suggests movies to users based on their preferences using collaborative and/or content-based filtering methods.
+A machine learning-based movie recommender system built using Python. This project predicts and suggests movies to users based on their preferences using content-based filtering methods.
 
 ## 🚀 Project Overview
 
